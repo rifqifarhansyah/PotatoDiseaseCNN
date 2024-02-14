@@ -1,4 +1,4 @@
-# PotatoDiseaseCNN
+# Deep Learning Project
 <h2 align="center">
 Potato Disease Classification Using CNN<br/>
 </h2>
@@ -107,7 +107,7 @@ npm audit fix
   <p>Figure 3. Healthy</p>
   <nl>
   <img src="/img/SS4.png/">
-  <p>Figure 3. Late Blight</p>
+  <p>Figure 4. Late Blight</p>
   <nl>
 </p>
 
